@@ -1,6 +1,4 @@
 # 🪐 Galaxy 
-Version : 1.0 <br>
-
  ![screenshot](https://github.com/Naerys404/Galaxy/blob/main/images/thumb.bmp)
 
 ## :pushpin: Version 
